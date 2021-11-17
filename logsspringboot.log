@@ -1,0 +1,36 @@
+2021-11-17 00:39:56 - INFO  - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-11-17 00:39:59 - INFO  - o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-11-17 00:39:59 - INFO  - o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-11-17 00:40:00 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-11-17 00:40:01 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-11-17 17:25:46 - INFO  - t.e.s.TimesheetSpringBootCoreDataJpaMvcRest1Application - Starting TimesheetSpringBootCoreDataJpaMvcRest1Application on AhmedPC with PID 14144 (C:\Users\ahmed\Desktop\Devops\TimesheetProject\target\classes started by ahmed in C:\Users\ahmed\Desktop\Devops\TimesheetProject)
+2021-11-17 17:25:46 - INFO  - t.e.s.TimesheetSpringBootCoreDataJpaMvcRest1Application - No active profile set, falling back to default profiles: default
+2021-11-17 17:25:49 - INFO  - o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-11-17 17:25:49 - INFO  - o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 146ms. Found 6 repository interfaces.
+2021-11-17 17:25:50 - INFO  - o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8dd48002] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-11-17 17:25:51 - INFO  - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-11-17 17:25:51 - INFO  - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-11-17 17:25:51 - INFO  - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-11-17 17:25:51 - INFO  - o.a.c.c.C.[.[localhost].[/SpringMVC] - Initializing Spring embedded WebApplicationContext
+2021-11-17 17:25:51 - INFO  - o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5055 ms
+2021-11-17 17:25:52 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-11-17 17:25:53 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-11-17 17:25:54 - INFO  - o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-11-17 17:25:55 - INFO  - org.hibernate.Version - HHH000412: Hibernate Core {5.3.9.Final}
+2021-11-17 17:25:55 - INFO  - org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2021-11-17 17:25:55 - INFO  - o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-11-17 17:25:56 - INFO  - org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-11-17 17:26:04 - INFO  - o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@27976390'
+2021-11-17 17:26:04 - INFO  - o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-17 17:26:05 - INFO  - o.h.h.i.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2021-11-17 17:26:06 - INFO  - o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-11-17 17:26:06 - WARN  - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-17 17:26:06 - INFO  - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/SpringMVC'
+2021-11-17 17:26:06 - INFO  - t.e.s.TimesheetSpringBootCoreDataJpaMvcRest1Application - Started TimesheetSpringBootCoreDataJpaMvcRest1Application in 21.58 seconds (JVM running for 23.586)
+2021-11-17 17:26:31 - INFO  - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-11-17 17:26:31 - INFO  - o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-11-17 17:26:31 - INFO  - o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-11-17 17:26:31 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-11-17 17:26:31 - INFO  - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
